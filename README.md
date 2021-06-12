@@ -7,7 +7,7 @@ The animation and rendering is achived throgh using a series of images which on 
 
 This app is developed by Siddharth Singh during his second semester while pursuaing B.TECH.
 
-*NOTE:* The developer does not own any of the images, text and material used while creating this app. This app is a combination of varois resources available over the internet.
+*NOTE:* The developer does not own any of the images, text and material used while creating this app. This app is a combination of various resources available over the internet.
 
 Thank you.
 Enjoy Coding!! :)
